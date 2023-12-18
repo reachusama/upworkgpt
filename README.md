@@ -1,12 +1,24 @@
 # UpworkGPT
-This ChatBot is built upon Upwork Legal information using Opensource models.
+UpworkGPT is chatbot designed to provide information related to Upwork's legal framework. 
 
-### Knowledge Base
-[Upwork Legal Links](https://www.upwork.com/legal)
+## Overview
+By leveraging open-source language models, UpworkGPT aims to offer reliable answers to queries about Upwork's legal policies and procedures.
 
-### Models
-- Ollama
+## Knowledge Base
+The chatbot is powered by a comprehensive database of Upwork's legal information. Key resources include but are not limited to:
 
-### Tools Used
-- LangChain
+- User Agreement
+- Privacy Policy
+- Terms of Service
+- Payment Policies
+
+To explore the full range of legal documents, visit [Upwork Legal Links](https://www.upwork.com/legal).
+
+## Tools 
+UpworkGPT uses the following tools for processing and generating responses:
+- [Ollama](https://ollama.ai/)
+- [LangChain](https://python.langchain.com/docs/get_started/introduction)
 - Python
+
+## Support
+For any technical issues or questions about UpworkGPT, please contact [Usama Shahid](usamashahid.us8@gmail.com).
