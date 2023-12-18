@@ -7,11 +7,9 @@ By leveraging open-source language models, UpworkGPT aims to offer reliable answ
 
 ## Authors
 
-### Usama Shahid
-- [LinkedIn Profile](https://www.linkedin.com/in/reach-usama/)
+### [Usama Shahid](https://www.linkedin.com/in/reach-usama/)
 
-### Dr. William Sayers
-- [LinkedIn Profile](https://www.linkedin.com/in/snikks)
+### [Dr. William Sayers](https://www.linkedin.com/in/snikks)
 
 ## Get Started
 ### Step 1
