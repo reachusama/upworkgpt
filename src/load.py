@@ -16,7 +16,8 @@ def load_documents_from_directory(path: str) -> List[Document]:
 def split_documents(
         documents: Iterable[Document],
         chunk_size: int = 1000,
-        chunk_overlap: int = 20) -> List[Document]:
+        chunk_overlap: int = 20
+) -> List[Document]:
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap
