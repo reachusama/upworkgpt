@@ -31,3 +31,8 @@ def load(path: str) -> List[Document]:
     split_docs = split_documents(docs)
 
     return split_docs
+
+
+if __name__ == "__main__":
+    document_chunks = load("../resources/data")
+    print(document_chunks[:2])
