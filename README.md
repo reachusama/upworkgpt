@@ -22,3 +22,6 @@ UpworkGPT uses the following tools for processing and generating responses:
 
 ## Support
 For any technical issues or questions about UpworkGPT, please contact [Usama Shahid](usamashahid.us8@gmail.com).
+
+## Disclaimer
+UpworkGPT is designed to provide information related to Upwork's legal documents. However, it should not be considered a substitute for professional legal advice.
