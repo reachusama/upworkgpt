@@ -4,6 +4,17 @@ UpworkGPT is chatbot designed to provide information related to Upwork's legal f
 ## Overview
 By leveraging open-source language models, UpworkGPT aims to offer reliable answers to queries about Upwork's legal policies and procedures.
 
+## Get Started
+### Step 1
+```
+pip install -r requirements.txt
+```
+### Step 2
+```
+python run.py
+```
+
+
 ## Knowledge Base
 The chatbot is powered by a comprehensive database of Upwork's legal information. Key resources include but are not limited to:
 
