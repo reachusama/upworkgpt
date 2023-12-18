@@ -14,6 +14,8 @@ pip install -r requirements.txt
 python run.py
 ```
 
+## In Action
+![Running Model](resources/snippets/running_model.png)
 
 ## Knowledge Base
 The chatbot is powered by a comprehensive database of Upwork's legal information. Key resources include but are not limited to:
