@@ -3,7 +3,7 @@ import textwrap
 
 
 def main():
-    chain = setup(docs_path="./resources/data")
+    chain = setup(docs_path="resources/data")
     q = "Describe your purpose and background knowledge"
 
     while not q.lower() == "quit":
