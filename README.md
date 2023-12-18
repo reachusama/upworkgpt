@@ -1,5 +1,5 @@
 # UpworkGPT
-UpworkGPT is a chatbot designed to provide information related to Upwork's legal framework. 
+UpworkGPT is a chatbot designed to provide information related to Upwork's terms of service. 
 
 ## Overview
 By leveraging open-source language models, UpworkGPT aims to offer reliable answers to queries about Upwork's terms of service.
